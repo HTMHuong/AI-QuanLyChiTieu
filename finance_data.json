@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "category": "Xăng xe",
+        "amount": 100000,
+        "description": "Đổ xăng"
+    },
+    {
+        "category": "Trà sữa",
+        "amount": 30000,
+        "description": "Giá 30.000 đồng"
+    },
+    {
+        "category": "Sách",
+        "amount": 50000,
+        "description": "Mua sách"
+    }
+]
